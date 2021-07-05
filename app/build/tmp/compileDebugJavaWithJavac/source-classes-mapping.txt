@@ -1,0 +1,4 @@
+com/masai/views_and_layouts_you2/MainActivity.java
+ com.masai.views_and_layouts_you2.MainActivity
+com/masai/views_and_layouts_you2/BuildConfig.java
+ com.masai.views_and_layouts_you2.BuildConfig
